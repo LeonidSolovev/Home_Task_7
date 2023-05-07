@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\bin\Debug\net7.0\Task 52.exe
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\bin\Debug\net7.0\Task 52.deps.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\bin\Debug\net7.0\Task 52.runtimeconfig.json
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\bin\Debug\net7.0\Task 52.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\bin\Debug\net7.0\Task 52.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\refint\Task 52.dll
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.pdb
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\Task 52.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\GeekBrains\C#_HomeTasks\HomeTask7\Task 52\obj\Debug\net7.0\ref\Task 52.dll
